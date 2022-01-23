@@ -1,0 +1,28 @@
+{
+	"name": "puppeteer-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --forceExit"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Doris927/puppeteer-example.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Doris927/puppeteer-example/issues"
+	},
+	"homepage": "https://github.com/Doris927/puppeteer-example#readme",
+	"dependencies": {
+		"@babel/core": "^7.16.12",
+		"@babel/preset-env": "^7.16.11",
+		"babel-jest": "^27.4.6",
+		"jest": "^27.4.7",
+		"jest-puppeteer": "^6.0.3",
+		"prettier": "^2.5.1",
+		"puppeteer": "^13.1.1"
+	}
+}
